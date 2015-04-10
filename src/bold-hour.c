@@ -8,7 +8,9 @@
    This watch's load/unload code is mostly taken from the big_time watchface which has to
    load/unload images as necessary. The same is true for bold-hour.
 
-   Author: Jon Eisen <jon@joneisen.me>
+   Original Author: Jon Eisen <jon@joneisen.me>: https://github.com/yanatan16/pebble-bold-hour
+   
+   Adaptations for 24 hours support and bluetooth status: Kristof Verpoorten (https://github.com/kverpoorten/PebbleBold24Hours)
 
  */
 
@@ -117,9 +119,9 @@ void display_time(struct tm * tick_time) {
   if (hour == 10 || (hour >= 12 && hour < 20)) {
     set_minute_layer_location(70 + 3*n1s);
   } else if (hour == 20 || hour >= 22) {
-    set_minute_layer_location(88 + 3*n1s);
+    set_minute_layer_location(89 + 3*n1s);
   } else if (hour == 21) {
-    set_minute_layer_location(32 + 3*n1s);
+    set_minute_layer_location(33 + 3*n1s);
   } else {
     set_minute_layer_location(53 + 3*n1s);
   }
