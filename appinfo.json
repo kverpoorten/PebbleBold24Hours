@@ -1,0 +1,152 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Kristof Verpoorten",
+    "longName": "Bold Hour - White",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bold-hour-23-inv.png",
+                "name": "IMAGE_NUM_23",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-22-inv.png",
+                "name": "IMAGE_NUM_22",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-21-inv.png",
+                "name": "IMAGE_NUM_21",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-20-inv.png",
+                "name": "IMAGE_NUM_20",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-19-inv.png",
+                "name": "IMAGE_NUM_19",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-18-inv.png",
+                "name": "IMAGE_NUM_18",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-17-inv.png",
+                "name": "IMAGE_NUM_17",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-16-inv.png",
+                "name": "IMAGE_NUM_16",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-15-inv.png",
+                "name": "IMAGE_NUM_15",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-14-inv.png",
+                "name": "IMAGE_NUM_14",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-13-inv.png",
+                "name": "IMAGE_NUM_13",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-0-inv.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-12-inv.png",
+                "name": "IMAGE_NUM_12",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-11-inv.png",
+                "name": "IMAGE_NUM_11",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-10-inv.png",
+                "name": "IMAGE_NUM_10",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-9-inv.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-8-inv.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-7-inv.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-6-inv.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-5-inv.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-4-inv.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-3-inv.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-2-inv.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/bold-hour-1-inv.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "fonts/edit_Asakim_Bold_38.ttf",
+                "name": "FONT_MINUTE_38",
+                "type": "font"
+            },
+            {
+                "file": "images/bold-hour-icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Bold Hour - White",
+    "uuid": "a33371e8-33cb-42d2-8e91-c66f2672e5f3",
+    "versionCode": 2,
+    "versionLabel": "1.4",
+    "watchapp": {
+        "watchface": true
+    }
+}
